@@ -1,4 +1,4 @@
-# odin-repos
+# odin-recipes
 Recipes from The Odin Recipes
 
 So far we have learned -
